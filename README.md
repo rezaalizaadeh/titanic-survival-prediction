@@ -25,7 +25,7 @@ This project walks through data preprocessing, feature engineering, model traini
 
 ## 📈 Results
 
-Best model (Random Forest) achieved ~80% accuracy on the test set.
+Best model (Random Forest) achieved ~81% accuracy on the test set.
 
 ---
 
